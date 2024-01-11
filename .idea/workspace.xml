@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="303dec80-48e0-4aa8-9085-0f7fc62da645" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafio3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caio/purchase/calc/CalcCardBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caio/purchase/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caio/purchase/models/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caio/purchase/models/Products.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caio/purchase/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caio/purchase/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

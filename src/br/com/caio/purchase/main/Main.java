@@ -44,9 +44,16 @@ public class Main {
             }
 
         }
-        if (productsList.size() > 0) {
+
+//        ordenação por preço
+//        Collections.sort(productsList);
+//        System.out.println("Ordenação por nome: " + productsList);
+
+        if (!productsList.isEmpty()) {
             System.out.println("*******************************");
             System.out.println("COMPRAS REALIZADAS:\n");
+            //ordenação por preço
+            productsList.sort(Comparator.comparing(Item::getPriceProduct));
             for (Products products : productsList) {
                 System.out.println(products);
 
